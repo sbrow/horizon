@@ -1,0 +1,9 @@
+{
+    "description": "forces a restart of the horizon process.",
+    "parameters": {
+        "project": {
+            "description": "The directory name of the project",
+            "type": "String[1]"
+        }
+    }
+}

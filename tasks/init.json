@@ -1,0 +1,9 @@
+{
+    "description": "Installs Horizon in the current laravel directory.",
+    "parameters": {
+        "project": {
+            "description": "The directory name of the project",
+            "type": "String[1]"
+        }
+    }
+}
